@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find . -type f -name *.java)",
+      "WebFetch(domain:www.bilibili.com)",
+      "WebSearch",
+      "Bash(java -version)",
+      "Bash(javac -version)",
+      "Bash(curl -s https://www.bilibili.com/video/BV1TJxCzSEEZ/)"
+    ]
+  }
+}
